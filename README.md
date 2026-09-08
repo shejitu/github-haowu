@@ -9,12 +9,17 @@
 ### 🤖 Agent 应用
 | 项目 | 简介 | 用法 | 原仓库 |
 |---|---|---|---|
-| （待补充） | | | |
+| [img2threejs](Agent应用/img2threejs/README.md) | 一张参考图 → AI 用纯代码重建为可动画的 Three.js 3D 模型（Agent 技能，15.5k★） | [中文用法](Agent应用/img2threejs/README.md) | [img2threejs/img2threejs](https://github.com/img2threejs/img2threejs) |
 
 ### 🛠 开发工具
 | 项目 | 简介 | 用法 | 原仓库 |
 |---|---|---|---|
 | （待补充） | | | |
+
+### 🎮 3D / 游戏开发
+| 项目 | 简介 | 用法 | 原仓库 |
+|---|---|---|---|
+| [PlayCanvas Engine](3D游戏开发/playcanvas-engine/README.md) | 基于 WebGL2/WebGPU/WebXR/glTF 的开源 Web 3D 游戏引擎（16.6k★，MIT） | [中文用法](3D游戏开发/playcanvas-engine/README.md) | [playcanvas/engine](https://github.com/playcanvas/engine) |
 
 ### 🏠 自托管 / 实用服务
 | 项目 | 简介 | 用法 | 原仓库 |
